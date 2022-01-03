@@ -8,4 +8,4 @@ btf-schematic.lab is the repository for Billfold Technology schematics based bus
 https://github.com/Billfold-Technologies/schematic-lab
 ### access token: 
 ### nucleus class: 
-(schematic, electroplate, library, plugin, api, trade engine, snippet.)
+([bft-schematic.lab], electroplate, library, plugin, api, trade engine, snippet.)
