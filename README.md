@@ -1,6 +1,6 @@
 # schematic-lab
 
-btf-schematic.lab is the repository for Billfold Technology schematics based business particles and nucleus files.
+bft-schematic.lab is the repository for Billfold Technology schematics based business particles and nucleus files.
 
 ### Build file name:
 'bft-filename.schematic'
