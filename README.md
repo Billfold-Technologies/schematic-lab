@@ -20,4 +20,4 @@ The nucleus class establishes and sets the CLI. The motherboard hosts seven clas
 | Command | Description |
 | --- | --- |
 | pbm_schematic show | List all new or modified files |
-| pbm_schematic execute_new | Show file differences that haven't been staged |
+| pbm_schematic execute_new | Create new executable to be staged |
