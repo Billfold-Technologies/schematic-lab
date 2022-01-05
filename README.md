@@ -25,3 +25,6 @@ The nucleus class establishes and sets the CLI. The motherboard hosts seven clas
 | pbm_schematic execute_new | Plan and create new executable to be staged |
 | pbm_schematic launch | App launcher
 | pbm_schematic package | Toolset for packaging personal business machines |
+| pbm_schematic attribution | Shows all schematic authors and events |
+| pbm_schematic test_pipeline | Set up automation test drive event |
+| pbm_schematic set_platform | Embarcation for platform system |
