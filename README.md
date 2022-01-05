@@ -22,3 +22,4 @@ The nucleus class establishes and sets the CLI. The motherboard hosts seven clas
 | pbm_schematic show | List all new or modified files |
 | pbm_schematic execute_new | Plan and create new executable to be staged |
 | pbm_schematic launch | App launcher
+| pbm_schematic package | Toolset for packaging personal business machines |
