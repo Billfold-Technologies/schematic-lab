@@ -11,12 +11,12 @@ bft-schematic.lab is the repository for Billfold Technology schematics based bus
 
 The nucleus class establishes and sets the CLI. The motherboard hosts seven class series and their business particles. The classes naming convention follows the build filename. A directory of classes may be found here:
 - [x] schematic.lab
-- [ ] [trade-engine.lab]()
-- [ ] [app.lab]()
-- [ ] [plugin.lab]()
-- [ ] [library.lab]()
-- [ ] [electroplate.lab]()
-- [ ] [snippet.lab]()
+- [ ] [trade-engine.lab](https://github.com/Billfold-Technologies/trade-engine-lab)
+- [ ] [api.lab](https://github.com/Billfold-Technologies/api-lab)
+- [ ] [plugin.lab](https://github.com/Billfold-Technologies/plugin-lab)
+- [ ] [library.lab](https://github.com/Billfold-Technologies/library-lab)
+- [ ] [electroplate.lab](https://github.com/Billfold-Technologies/electroplate-lab)
+- [ ] [snippet.lab](https://github.com/Billfold-Technologies/snippet-lab)
 
 
 | Command | Description |
