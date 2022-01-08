@@ -21,7 +21,7 @@ The nucleus class establishes and sets the CLI. The motherboard hosts seven clas
 |- [snippet.lab](https://github.com/Billfold-Technologies/snippet-lab) | The repository for Billfold Technology UI content and design.
 |     |
 
-| Command | Description |
+| PBM Nucleus Command | Description |
 | --- | --- |
 | pbm_schematic show | List all new or modified files |
 | pbm_schematic execute_new | Plan and create new executable to be staged |
