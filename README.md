@@ -8,6 +8,7 @@ bft-schematic.lab is the repository for Billfold Technology schematics based bus
 |  Repository: | [schematic-lab](https://github.com/Billfold-Technologies/schematic-lab/) |
 |  Access token: | OAuth |
 |  Nucleus class: | schematic.lab |
+|  Deployment name: | `npm install` schematiclab |
 
 The nucleus class establishes and sets the CLI. The motherboard hosts seven class series and their business particles. The classes naming convention follows the build filename. A directory of classes may be found here:
 | Nucleus Class | Description
